@@ -1,9 +1,3 @@
----
-title: Portfolio
-permalink: /
-layout: default
----
-
 # Rafael Niebles
 
 <p align="left">
