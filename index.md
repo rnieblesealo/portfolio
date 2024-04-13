@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: my-portfolio
 permalink: /
 layout: default
 ---
