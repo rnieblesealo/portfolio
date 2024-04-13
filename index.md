@@ -4,8 +4,6 @@ permalink: /
 layout: default
 ---
 
-# Rafael Niebles
-
 <p align="left">
     <img width=200 height=200 src="headshot.png">
 </p>
