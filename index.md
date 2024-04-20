@@ -4,8 +4,12 @@ permalink: /
 layout: default
 ---
 
+# Rafael Niebles
+
+[Experience](/experience.md) / [Logistics](/logistics.md) / [Projects](/projects.md)
+
 <p align="left">
-    <img width=200 height=200 src="headshot.png">
+    <img width=200 height=200 src="assets/headshot.png">
 </p>
 
 ### About Me
